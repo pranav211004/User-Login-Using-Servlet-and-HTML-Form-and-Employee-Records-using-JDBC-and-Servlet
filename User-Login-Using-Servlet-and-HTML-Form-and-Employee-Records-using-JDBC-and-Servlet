@@ -1,6 +1,0 @@
-CREATE TABLE employees (
-  id INT PRIMARY KEY,
-  name VARCHAR(50),
-  designation VARCHAR(50),
-  salary DOUBLE
-);
